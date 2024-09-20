@@ -67,6 +67,10 @@ To deploy this solution:
 3. Review and create the stack.
 4. Confirm the subscription emails sent by SNS to start receiving notifications.
 
-## Note
+## Security
 
-This solution is designed for use within a Control Tower environment and requires appropriate permissions to create and manage the specified AWS resources.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
