@@ -10,11 +10,11 @@ This CloudFormation template sets up a comprehensive notification system for AWS
 
 This solution provides alerts for the following events:
 
-1. Control Tower Updates
+1. New Control Tower Updates/Version releases
 2. Account Creation
 3. Organizational Unit (OU) Creation and Deletion
 4. Account Suspension
-5. Root User Login
+5. Root User Login in Management Account
 
 ## Parameters
 
